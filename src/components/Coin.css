@@ -1,0 +1,9 @@
+.coin-div {
+  width: 15rem;
+  margin: 20px auto;
+}
+
+.coin-div img {
+  width: 100%;
+  height: 100%;
+}
